@@ -1,0 +1,11 @@
+ul li a{
+    list-style-type: none;
+
+}
+ul>li{
+    display: inline;
+}
+
+li+li{
+    margin: 10px;
+}
